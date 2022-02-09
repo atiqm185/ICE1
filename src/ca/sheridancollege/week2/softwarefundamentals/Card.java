@@ -9,6 +9,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo
  * @Muhammad Atiq ICE1
+ * Student Number: 991653552
  */
 public class Card 
 {
