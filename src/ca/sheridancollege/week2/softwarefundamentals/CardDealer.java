@@ -7,7 +7,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
  * The class where we create Cards
- * @Muhammad Atiq
+ * @Muhammad Atiq ICE1
  */
 public class CardDealer 
 {
